@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title> Hello World </title>
+  </head>
+  <body>
+
+  <ol>
+  {% for item in items %}    
+      <li><a href="/item/{{ item.key.id }}">{{ item.description }}</a></li>
+  {% endfor %}
+  </ol>
+  
+  <form action="" method="post">
+    <p><label>To Do: <input type="text" name="description" value="" /></p>
+    <p><input type="submit" value="Add" /></p>
+  </form>
+    
+  </body>
+</html> 
+

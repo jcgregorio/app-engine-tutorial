@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title> Hello World </title>
+  </head>
+  <body>
+
+  <ol>
+  {% for item in items %}    
+      <li>{{ item.description }}</li>
+  {% endfor %}
+  </ol>
+  
+  <p>{{ total }} items created</p>
+  
+  <form action="" method="post">
+    <p><label>To Do: <input type="text" name="description" value="" /></p>
+    <p><input type="submit" value="Add" /></p>
+  </form>
+    
+  </body>
+</html> 
+

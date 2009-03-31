@@ -1,0 +1,16 @@
+74.202.227.225 - - [18/Mar/2009:11:31:23 -0700] "POST / HTTP/1.1" 302 151 "http://jcgregorio-test.appspot.com/" -
+	1:1237401083.756780 Count = 1
+	3:1237401083.757139 <__main__.ItemCount object at 0x31ec94bd3a63ac38>
+74.202.227.225 - - [18/Mar/2009:11:31:27 -0700] "POST / HTTP/1.1" 302 151 "http://jcgregorio-test.appspot.com/" -
+	1:1237401087.302676 Count = 2
+	3:1237401087.302942 <__main__.ItemCount object at 0x31ec94bd3a63ad78>
+74.202.227.225 - - [18/Mar/2009:11:32:21 -0700] "POST / HTTP/1.1" 302 151 "http://jcgregorio-test.appspot.com/" -
+	1:1237401141.224716 Count = 3
+74.202.227.225 - - [18/Mar/2009:11:52:44 -0700] "POST / HTTP/1.1" 302 151 "http://jcgregorio-test.appspot.com/" -
+	1:1237402364.545833 Count = 4
+74.202.227.225 - - [18/Mar/2009:11:52:46 -0700] "POST / HTTP/1.1" 302 151 "http://jcgregorio-test.appspot.com/" -
+	1:1237402366.503260 Count = 5
+74.202.227.225 - - [18/Mar/2009:11:52:48 -0700] "POST / HTTP/1.1" 302 151 "http://jcgregorio-test.appspot.com/" -
+	1:1237402368.162780 Count = 6
+74.202.227.225 - - [18/Mar/2009:11:52:51 -0700] "POST / HTTP/1.1" 302 151 "http://jcgregorio-test.appspot.com/" -
+	1:1237402371.133157 Count = 7
